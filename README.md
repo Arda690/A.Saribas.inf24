@@ -9,7 +9,20 @@
 Mich mit Visual Studio auseinander setzen.
 Die Hausaufgaben im Visual Studio erledigen.
 Am Modul 431 weiter arbeiten, der Rheinfolge nach
-##Reflexion
+## Reflexion
 Ich habe mich damit auseinander gesetzt und finde mich in der App besser zurecht.
 Die Hausaufgaben habe ich erledigt und abgegeben.
 Ich habe am Modul 431 weiter geearbeitet.
+
+# Lern-Atelier-23.08.2024
+## 2. Tag
+## Ziele
+1. Ich möchte am Modul 431 weiterarbeiten.
+2. Weiter im Microsoft Visual Studio experimentieren mit Codes und eventuell am Mopdul 319 arbeiten.
+3. LA 1708 fertig machen
+   
+# Lernatelier 23.08.2024
+## Reflexion
+Ich habe am Modul 431 weitergearbeitet
+Ich habe mich gut mit microsoft visual studios auseinander gesetzt und finde mich dort besser zurecht.
+Ich habe LA 1708 fertig gemacht.
