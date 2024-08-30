@@ -1,3 +1,19 @@
+# Lern-Atelier-30.08.2024
+## 3. Tag
+## Ziele
+1. Ich möchte am Modul 431 weiterarbeiten und meine Programierkünste weiter stärken
+2. Weiter im Microsoft Visual Studio experimentieren mit Codes und eventuell am Mopdul 319 arbeiten.
+3. LA 1708 fertig machen
+
+
+
+
+
+
+
+
+
+
 # Lern-Atelier-16.08.2024
 ## 1. Tag
 1. Mich mit Visual Studio auseinander setzen. Die App also besser kennenlernen.
