@@ -5,7 +5,10 @@
 2. Weiter im Microsoft Visual Studio experimentieren mit Codes und eventuell am Mopdul 319 arbeiten.
 3. LA 1708 fertig machen
 
-
+## Reflexion
+Ich kann jetzt einen Taschenrechner programmieren
+DIch habe LA 1708 fertig gemacht
+Ich habe am Modul 319 weitergearbeitet
 
 
 
