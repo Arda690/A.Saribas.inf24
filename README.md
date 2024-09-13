@@ -1,3 +1,24 @@
+# Lern-Atelier-13.09.2024
+## 4. Tag
+## Ziele
+1. Ich möchte am Modul 431 weiterarbeiten und meine Programierkünste weiter stärken
+2. Weiter im Microsoft Visual Studio experimentieren mit Codes und eventuell am Mopdul 319 arbeiten.
+3. LA 1721 fertig machen
+
+## Reflexion
+Ich kann jetzt einen switch programmieren
+DIch habe LA 1721 fertig gemacht
+Ich habe am Modul 319 weitergearbeitet
+
+
+
+
+
+
+
+
+
+
 # Lern-Atelier-06.09.2024
 ## 3. Tag
 ## Ziele
