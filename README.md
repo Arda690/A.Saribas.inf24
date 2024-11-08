@@ -1,3 +1,13 @@
+# Lern-Atelier-08.11.2024
+## Ziele
+1. Ich möchte am Programmier Projekt arbeiten 
+2. Ich möchte meine zusammenarbeit Kompetenz fördern in dem ich mit Aleks unseren Stundenplan programmiere mit der richtigen Tabellen formation
+3. Ich möchte 1724 Skalenniveau fertig machen
+
+
+
+
+
 # Lern-Atelier-21.09.2024
 ## 6. Tag
 ## Ziele
