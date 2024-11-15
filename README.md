@@ -1,6 +1,14 @@
 # Lern-Atelier-08.11.2024
 ## Ziele
 1. Ich möchte am Programmier Projekt arbeiten
+2. Ich möchte 1724 Skalenniveau fertig stellen
+3. Ich möchte selber mich mit GUI auseinandersetzen. Wie man es benutzt
+
+
+
+# Lern-Atelier-08.11.2024
+## Ziele
+1. Ich möchte am Programmier Projekt arbeiten
 3. Ich möchte meine zusammenarbeit Kompetenz fördern in dem ich mit Aleks unseren Stundenplan programmiere mit der richtigen Tabellen formation
 4. Ich möchte 1724 Skalenniveau fertig machen
    
