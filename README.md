@@ -1,6 +1,6 @@
-# Lern-Atelier-08.11.2024
+# Lern-Atelier-15.11.2024
 ## Ziele
-1. Ich möchte am Programmier Projekt arbeiten
+1. Ich möchte am Programmier Projekt arbeiten also an dem teamprojekt bei den codes
 2. Ich möchte 1724 Skalenniveau fertig stellen
 3. Ich möchte selber mich mit GUI auseinandersetzen. Wie man es benutzt
 
