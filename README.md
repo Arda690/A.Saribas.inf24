@@ -4,6 +4,10 @@
 2. Ich möchte 1724 Skalenniveau fertig stellen
 3. Ich möchte selber mich mit GUI auseinandersetzen. Wie man es benutzt
 
+## Reflexion
+Wir sind jetzt sehr weit gekommen.
+erledigt
+konnte mich damit auseinander setzen verstehe es auch besser
 
 
 # Lern-Atelier-08.11.2024
