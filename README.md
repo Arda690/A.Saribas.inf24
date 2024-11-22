@@ -1,11 +1,12 @@
 # Lern-Atelier-22.11.2024
 1. Ich möchte am Programmier Projekt arbeiten also an dem teamprojekt bei den codes
-2. Ich möchte 1735 Skalenniveau fertig stellen
+2. Ich möchte 1735 fertig stellen
 3. Ich möchte mit svanik eventuell wenn die zeit noch reicht ein programierprojekt machen etwas kleines was wir und dan ausdenken werden.
 
-
-
-
+## Ziele
+1. Haben wir und sind bald fertig
+2. erledigt
+3. Keine Zeit gehabt
 
 # Lern-Atelier-15.11.2024
 ## Ziele
