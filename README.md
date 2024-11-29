@@ -1,4 +1,14 @@
-# Lern-Atelier-22.11.2024
+# Lern-Atelier-29.11.2024
+1. Powerpoint fertig gemacht.
+2. Ist fertig.
+3. Leider keine Zeit mehr gehabt.
+
+
+
+
+
+
+# Lern-Atelier-29.11.2024
 1. Ich möchte am Programmier Projekt arbeiten also an dem teamprojekt bei den codes und powerpoint fertig machen
 2. Ich möchte 1724 fertig stellen
 3. Ich möchte eventuell wenn die zeit noch reicht ein programierprojekt machen etwas kleines was ich mir dan ausdenken werden.
