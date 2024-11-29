@@ -1,4 +1,13 @@
 # Lern-Atelier-22.11.2024
+1. Ich möchte am Programmier Projekt arbeiten also an dem teamprojekt bei den codes und powerpoint fertig machen
+2. Ich möchte 1724 fertig stellen
+3. Ich möchte eventuell wenn die zeit noch reicht ein programierprojekt machen etwas kleines was ich mir dan ausdenken werden.
+
+
+
+
+
+# Lern-Atelier-22.11.2024
 1. Ich möchte am Programmier Projekt arbeiten also an dem teamprojekt bei den codes
 2. Ich möchte 1735 fertig stellen
 3. Ich möchte mit svanik eventuell wenn die zeit noch reicht ein programierprojekt machen etwas kleines was wir und dan ausdenken werden.
