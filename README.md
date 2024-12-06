@@ -1,6 +1,6 @@
 # Lern-Atelier-06.12.2024
 1. Ich möchte mich mit GUI auseinandersetzen und es besser verstehen und anwenden können
-2. Ich möchte Modul 162 repetiern
+2. Ich möchte Modul 162 repetiern heisst die übungen überfliegen
 3. Ein Programmierprojekt mit aleks und svanik machen
 
 
