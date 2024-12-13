@@ -1,3 +1,12 @@
+# Reflexio 
+1. gemacht
+2. erledigt
+3. hab ich muss noch mehr
+
+
+
+
+
 # Lern-Atelier-13.12.2024
 1. Ich möchte die Dokumentation erledigen
 2. Ich möchte mono game herunterladen
