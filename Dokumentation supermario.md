@@ -100,3 +100,6 @@ Zusätzliche Power-Ups, wie das Wachsen von Mario, wenn er einen Pilz isst.
 Boss-Kämpfe am Ende von Levels.
 
 Speicherfunktion, damit der Spieler seinen Fortschritt speichern und fortsetzen kann.
+
+
+Zuerst schauen ob ich mit MonoGame klar komme
