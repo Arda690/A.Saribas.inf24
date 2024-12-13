@@ -1,3 +1,11 @@
+# Lern-Atelier-13.12.2024
+1. Ich möchte die Dokumentation erledigen
+2. Ich möchte mono game herunterladen
+3. Ich möchte mich mit monogame auseinander setzen.
+
+
+
+
 # Lern-Atelier-06.12.2024
 1. verstehe jetzt besser
 2. erledigt
