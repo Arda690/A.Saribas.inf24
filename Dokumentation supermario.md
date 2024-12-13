@@ -1,6 +1,6 @@
-Dokumentation: Super Mario 2D in C#
+# Dokumentation: Super Mario 2D in C#
 
-Projektübersicht
+## Projektübersicht
 Das Ziel dieses Projekts ist es, ein 2D-Plattformspiel ähnlich wie das klassische "Super Mario" zu entwickeln. Der Spieler steuert die Spielfigur Mario durch verschiedene Levels, sammelt Münzen, springt über Hindernisse und bekämpft Gegner. Dieses Spiel wird in C# mit der Spieleentwicklungsbibliothek MonoGame entwickelt. Das Projekt bietet die Möglichkeit, Konzepte wie Objektorientierung, Animation, Kollisionserkennung und Spiellogik zu erlernen.
 
 Funktionen und Features
