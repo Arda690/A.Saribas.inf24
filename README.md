@@ -1,3 +1,13 @@
+# Lern-Atelier-20.12.2024
+1. Ich möchte mono game verstehen
+2. Ich möchte am neuen modul 162 arbeiten
+3. Ich möchte wenns reicht anfangen programieren
+
+
+
+
+
+
 # Reflexio 
 1. gemacht
 2. erledigt
