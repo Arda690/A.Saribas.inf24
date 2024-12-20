@@ -1,3 +1,10 @@
+# Reflexio 
+1. Habe mir videos angschaut und tutorials.
+2. Einbisschen vorwärts gekommen
+3. keine zeit gehabt
+
+
+
 # Lern-Atelier-20.12.2024
 1. Ich möchte mono game verstehen
 2. Ich möchte am neuen modul 162 arbeiten
