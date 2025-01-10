@@ -1,4 +1,14 @@
-# Reflexio 
+
+# Lern-Atelier-10.01.2024
+1. Ich möchte videos anschauen im bezug auf monogame
+2. Ich möchte am neuen modul 164 arbeiten
+3. Ich möchte mit dem programieren anangen falls ich es verstehe wie (schaue dazu videos)
+
+
+
+
+
+# Reflexiom 
 1. Habe mir videos angschaut und tutorials.
 2. Einbisschen vorwärts gekommen
 3. keine zeit gehabt
