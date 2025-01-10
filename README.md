@@ -1,3 +1,11 @@
+# Reflexiom 
+1. Habe mir videos angschaut und kenne jetzt viele effekte jedoch fällt es mir schwer es anzuwenden
+2. Einbisschen vorwärts gekommen
+3. konnte einwenig etwas erreichen
+
+
+
+
 
 # Lern-Atelier-10.01.2024
 1. Ich möchte videos anschauen im bezug auf monogame
